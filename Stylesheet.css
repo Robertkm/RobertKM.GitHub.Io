@@ -1,0 +1,76 @@
+body{
+margin: 0;
+background-image: url(stardust_@2X.png);
+}
+
+#Nav{
+background-color: #222;
+position: fixed;
+width: 100%;
+top: 0;
+font-family: ‘Trebuchet MS’, Helvetica, sans-serif;
+}
+
+#Nav-Wrapper{
+margin 0 ;
+width: 960px;
+text-align: left;
+}
+
+#Nav ul{
+list-style-type: none; 
+padding: 0; 
+margin: 0; 
+}
+
+#Nav ul li{
+display: inline-block;
+}
+
+#Nav ul li:hover{
+background-color: #333;
+}
+
+#Nav ul li a,visited{
+color: #CCC;
+display: block;
+padding: 15px;
+text-decoration: none;
+}
+
+#wrapper{
+width: 960px;
+margin: 0 auto;
+text-align: left;
+}
+
+#content{
+background-color: #FFF;
+border: 3px solid #DDD;
+padding: 20px; 
+margin: 80px 0 0 0;
+font-family: ‘Trebuchet MS’, Helvetica, sans-serif;
+}
+
+#content2{
+background-color: #FFF;
+border: 3px solid #DDD;
+padding: 20px; 
+margin: 10px 0 0 0;
+font-family: ‘Trebuchet MS’, Helvetica, sans-serif;
+}
+
+#Home1{
+text-align: center;
+color: black;
+font-family: ‘Trebuchet MS’, Helvetica, sans-serif;
+}
+
+#HomeP {
+text-align: center;
+}
+
+img {
+height: 960px;
+width: 960px;
+}
